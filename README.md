@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**jmperafan/jmperafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Juan Manuel, a data professional based in Utrecht, Netherlands, working in analytics since 2017. I love to talk about:
+- Analytics Engineering
+- Data Modeling
+- SQL
+- Data governance
+- dbt
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Community Work
+Besides my regular job, I am also very active in the data community:
+- Co-author of Fundamentals of Analytics Engineering 📚
+- dbt Community Award recipient 🏆
+- Host of SQL Lingua Franca Podcast 🎙️
+- Founder of the Analytics Engineering meetup in the Netherlands as well as the Dutch dbt meetup 🤝
+- Speaker at dozens of conferences/meetups around the world (including dbt Coalesce, Linux Foundation OS Summit, Big Data Summit Warsaw, NL Big Data Expo, and Developer Week Latin America) 🎤
