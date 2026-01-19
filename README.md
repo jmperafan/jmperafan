@@ -16,4 +16,4 @@ Besides my regular job, I am also very active in the data community:
 - **Founder** of the Analytics Engineering meetup in the Netherlands and the Dutch dbt meetup 🤝
 - **Speaker** at dozens of conferences/meetups around the world (including dbt Coalesce, Linux Foundation OS Summit, Big Data Summit Warsaw, NL Big Data Expo, and Developer Week Latin America) 🎤
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/jmperafan) | [Portfolio](juanalytics.com)
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/jmperafan) | [Portfolio](juanalytics.com) | [YouTube](youtube.com/juanalytics)
