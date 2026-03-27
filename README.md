@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! I'm Juan, a data professional based in Utrecht, Netherlands, working in analytics since 2017. I love to talk about:
+Hello! I'm Juan, a data professional based in Connecticut, working in analytics since 2017. I love to talk about:
 - Analytics Engineering
 - Data Modeling
 - SQL
